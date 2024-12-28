@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/chengxi/SrcCode/RssParse/build",
+  "command": "/usr/bin/g++  -I/home/chengxi/SrcCode/RssParse/TinyXml/include -I/home/chengxi/SrcCode/RssParse/RssParse/include -g -std=gnu++14 -o CMakeFiles/rssparse.dir/main.cpp.o -c /home/chengxi/SrcCode/RssParse/main.cpp",
+  "file": "/home/chengxi/SrcCode/RssParse/main.cpp"
+},
+{
+  "directory": "/home/chengxi/SrcCode/RssParse/build",
+  "command": "/usr/bin/g++  -I/home/chengxi/SrcCode/RssParse/TinyXml/include -I/home/chengxi/SrcCode/RssParse/RssParse/include -g -std=gnu++14 -o CMakeFiles/rssparse.dir/TinyXml/src/tinyxml2.cpp.o -c /home/chengxi/SrcCode/RssParse/TinyXml/src/tinyxml2.cpp",
+  "file": "/home/chengxi/SrcCode/RssParse/TinyXml/src/tinyxml2.cpp"
+},
+{
+  "directory": "/home/chengxi/SrcCode/RssParse/build",
+  "command": "/usr/bin/g++  -I/home/chengxi/SrcCode/RssParse/TinyXml/include -I/home/chengxi/SrcCode/RssParse/RssParse/include -g -std=gnu++14 -o CMakeFiles/rssparse.dir/RssParse/src/rssparse.cpp.o -c /home/chengxi/SrcCode/RssParse/RssParse/src/rssparse.cpp",
+  "file": "/home/chengxi/SrcCode/RssParse/RssParse/src/rssparse.cpp"
+}
+]

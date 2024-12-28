@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/rssparse.dir/main.cpp.o CMakeFiles/rssparse.dir/TinyXml/src/tinyxml2.cpp.o CMakeFiles/rssparse.dir/RssParse/src/rssparse.cpp.o -o ../rssparse 
